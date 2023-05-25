@@ -1,0 +1,8 @@
+[core]
+	editor = nvim
+[user]
+	email = jascode9@gmail.com
+	name = jscodin
+[push]
+	autoSetupRemote = true
+	default = current
