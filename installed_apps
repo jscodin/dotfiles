@@ -1,0 +1,9 @@
+- Neovim via Lazyvim
+- Ripgrep - rg?
+- restic
+- bat (cmd is batcat by default)
+- P10k (use youtube vid)
+- ZSH (plus all the plugins,
+  should be in the config tho)
+- nvm (via zsh)
+- npm (via nvm)
