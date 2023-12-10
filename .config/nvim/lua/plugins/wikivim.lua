@@ -1,0 +1,6 @@
+return {
+  {
+    "lervag/wiki.vim",
+  },
+
+}
