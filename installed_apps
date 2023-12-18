@@ -1,10 +1,11 @@
-- Neovim via Lazyvim
-- Ripgrep - rg?
+- Neovim - usually best to build from source
+- Ripgrep
+- fzf
 - restic
 - bat (cmd is batcat by default)
 - P10k (use youtube vid)
-- ZSH (plus all the plugins,
-  should be in the config tho)
+- ZSH (plus all the plugins, should be in the config tho)
 - nvm (via zsh)
 - npm (via nvm)
 - wiki.vim (from github, using Lazyvim)
+- lazyGit (github)
