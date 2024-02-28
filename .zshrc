@@ -111,5 +111,7 @@ alias chrome="/mnt/c/Program\ Files\/Google/Chrome/Application/chrome.exe"
 alias bat="batcat"
 alias open="explorer.exe"
 alias config='/usr/bin/git --git-dir=/home/prodbymrslick/dotfiles --work-tree=/home/prodbymrslick'
+alias cddownloads="cd /mnt/c/Users/mrsli/Downloads"
+alias lst="ls -tul"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
