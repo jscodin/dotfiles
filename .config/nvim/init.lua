@@ -7,6 +7,13 @@ vim.g.wiki_root = "~/mywiki"
 -- fix line wrap
 vim.wo.linebreak = true
 
+--stops inline tags in emmet (HTML)
+vim.g.user_emmet_settings = {
+  html = {
+    block_all_childless = 1,
+  },
+}
+
 -- WSL yank support
 vim.opt.clipboard = "unnamedplus"
 
